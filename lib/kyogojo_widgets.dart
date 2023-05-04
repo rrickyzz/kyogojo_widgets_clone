@@ -20,8 +20,6 @@ export 'src/components/navigation/navigation.dart';
 export 'src/components/navigation/primary_bottom_navigator.dart';
 export 'src/components/notification/popup.dart';
 
-export 'src/components/navigation/secondary_navigator.dart';
-
 // styles
 export 'src/styles/buttons/outlined.dart';
 export 'src/styles/buttons/pill.dart';

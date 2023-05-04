@@ -19,7 +19,6 @@ dependencies:
   jumping_dot: ^0.0.4
   permission_handler: ^10.2.0
   pinput: ^2.2.31
-  routemaster: ^1.0.1
   smooth_page_indicator: ^1.0.0+2
 
 dev_dependencies:
