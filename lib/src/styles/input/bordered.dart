@@ -110,8 +110,8 @@ class BorderedInputX {
   static TextStyle labelTextStyle(
     BorderedInputState state,
   ) {
-    TextStyle textStyle = TextStyle(
-        fontWeight: FontWeight.w400, fontSize: 14.sp, letterSpacing: .25);
+    TextStyle textStyle = const TextStyle(
+        fontWeight: FontWeight.w400, fontSize: 17, letterSpacing: .25);
 
     return textStyle.copyWith(
         color: DesignSystem.foundation.primaryBackgroundD);
